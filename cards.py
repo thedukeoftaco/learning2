@@ -40,3 +40,5 @@ while hand != bandaid:  # this part wasn't working when using "None" so I used a
         hand.remove(inp)
     else:
         print('You do not have a ' + inp + '.')
+
+# should I make a class of cards with each card being an object?
